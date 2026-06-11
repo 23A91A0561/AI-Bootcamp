@@ -1,6 +1,8 @@
 # AI Playground Lab Report: Comparative Analysis of 4 Free-Tier LLMs
 
 **Lab:** Day 1, Lab 1A – AI Playground (Turnkey Walkthrough)  
+**Name:** Tadepalli Jashwanth Sagar  
+**Date:** 09 June 2026
 **Tasks:** Summarisation, Code Generation, Logical Reasoning  
 **Tools evaluated:** ChatGPT (free), Claude (free), Gemini (free), Perplexity (free)  
 
